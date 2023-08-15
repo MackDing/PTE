@@ -1,0 +1,467 @@
+[WFD]
+1.The celebrated theory is still the source of great controversy. #131001
+这一著名的理论至今仍是巨大争议的根源。
+2.I thought a good architectural structure should be useful, durable and beautiful.#131002
+我以为一个好的建筑结构应该是有用的，耐用的，美观的。
+3.A group meeting will be held tomorrow in the library conference room. #131003
+明天将在图书馆会议室举行小组会议。
+4.A number of students have volunteer jobs.#131004
+许多学生从事志愿工作。
+5.Educational level is found to be related to social and economic background.#131005
+教育水平与社会和经济背景有关。
+6.We can all meet at my office after the lecture. #131006
+讲座结束后我们可以在我的办公室见面。
+7.Tutorials are scheduled in the final week of the term.#131007
+辅导课安排在学期的最后一周。
+8.You can make an appointment to meet the librarian. #131008
+你可以和图书管理员约个时间。
+9.Affordable housing is an important issue for all members of society.#131009
+经济适用房对社会所有成员来说都是一个重要问题。
+10.Agenda items should be submitted by the end of the day.#131010
+议程项目应在当天结束前提交。
+11.All dissertations must be accompanied by a submission form.#131011
+所有论文必须附上提交表格。
+12.All industries are a system of inputs, processes, outputs and feedback.#131012
+所有行业都是一个输入、处理、输出和反馈的系统。
+13.All of the assignments must be submitted in person to the faculty office.#131013
+所有的作业必须亲自递交到学院办公室。
+14.Economic development needs to be supported by the government.#131014
+经济发展需要政府的支持。
+15.All of your assignments are due by tomorrow.#131015
+你明天应该交所有的作业。
+16.All students are expected to attend ten lab sessions per semester. #131016
+所有学生每学期需参加十次实验。
+17.Our view is that educational reforms have been inadequately implemented.#131020
+我们的看法是，教育改革执行得不够充分。
+18.Although sustainable development is not easy, it is an unavoidable responsibility. #131022
+可持续发展虽然不容易，但是一项不可推卸的责任。
+19.Americans have typically defined the process of plant growth in quantitative terms.#131023
+美国人通常用定量术语来定义植物生长的过程。
+20.An ancient text may hold secrets which were lost centuries ago.#131024
+古文可能藏有几个世纪前就消失了的秘密。
+21.An introduction is an essential element of presentation#131025
+简介是演讲的基本要素。
+22.And in that regard, as well as in other regards, it stands as an important contribution.#131026
+在这方面以及在其他方面，它是一个重要的贡献。
+23.The assignments should be submitted to the department office before the deadlines.#131028
+作业须于截止日期前送交系办公室。
+24.Before attending classes, you must register online or by post.#131031
+在参加课程之前，你必须在网上或邮寄注册。
+25.Behind the group, there is a flat cart drawn by mules.#131034
+队伍后面有一辆由骡子拉着的平车。
+26.Climate change is now an acceptable phenomenon among a group of reputable scientists.#131039
+在一群有声望的科学家中，气候变化现在是一种可以接受的现象。
+27.Clinical placements in nursing prepare students for professional practice. #131041
+护理专业的临床实习使学生为专业实践做好准备。
+28.Conferences ought to be always scheduled two weeks in advance.#131044
+会议应该提前两周安排。
+29.Consumer confidence has a direct influence on sales. #131045
+消费者信心对销售有直接影响。
+30.Convincing evidence to support this theory is hard to obtain. #131047
+支持这一理论的令人信服的证据很难获得。
+31.Daily practice can build confidence and improve skills.#131048
+每天的练习可以建立自信，提高技能。
+32.The economic strength of the early Roman Republic will be examined. #131054
+我们将考察罗马共和国早期的经济实力。
+33.He landed a job in a very prestigious law firm.#131068
+他在一家非常著名的律师事务所找到了一份工作。
+34.I thought it was through the small meeting room.#131070
+我以为是穿过那个小会议室。
+35.If finance is a cause of concern, scholarships may be available. #131072
+如果经济原因令人担忧，奖学金也许是可以申请。
+36.If you need additional help, visit the student resource center.#131075
+如果你需要额外的帮助，请访问学生资源中心。
+37.Important data from the argument are missing in the summary. #131077
+摘要中缺少论证的重要数据。
+38.It is absolutely vital that you acknowledge all your sources. #131081
+了解你所有的信息来源是绝对重要的。
+39.Listening is the key skill needed to succeed in this course.#131092
+听力是学好这门课的关键能力。
+40.Many birds migrate to warmer areas for the winter. #131093
+许多鸟冬季迁徙到较暖和的地区。
+41.A National Center of Excellence is currently being built.#131095
+一个国家成就中心正在建设中。
+42.Nurses can specialize in clinical work and management. #131107
+护士可以专攻临床工作和管理。
+43.Our professor is hosting the business development conference. #131113
+我们的教授正在主持商业发展会议。
+44.Packaging is very important to attract the attention of a buyer. #131116
+包装对于吸引购买者的注意是非常重要的。
+45.Peer group pressure has a significant effect on young people.#131118
+同辈群体压力对年轻人有很大的影响。
+46.Plants are the living things that can grow in land or in water. #131119
+植物是能在陆地或水中生长的生物。
+47.Please note that the submission deadlines are only negotiable in exceptional circumstances. #131122
+请注意，截止日期只有在特殊情况下才可以协商。
+48.Please remember to bring a highlighter and your textbook to class next Thursday. #131123
+请记得下周四上课时带一支荧光笔和你的课本。
+49.All of your assignments are due on Wednesday.#131125
+你们所有的作业都要在星期三交。
+50.Radio is a popular form of entertainment throughout the world.#131130
+收音机是全世界流行的一种娱乐方式。
+51.Remember, the prestigious election of stewardship has strict eligibility criteria.#131136
+记住，这场有声望的管理层选举有严格的资格标准。
+52.The supposed benefits of space exploration are frequently questioned.#131142
+太空探索的所谓好处经常受到质疑。
+53.Scientists are always asking the government for more money.#131143
+科学家总是向政府要更多的钱。
+54.The speaker began by giving an outline of her presentation.#131145
+演讲者先给出了她今天讲座的大纲。
+55.Some economists argue that the entire financial system is fatally flawed.#131150
+一些经济学家认为，整个金融体系存在致命的缺陷。
+56.Some students find that true or false questions are harder than short answers. #131153
+一些学生发现正误问题比简答题难。
+57.You are advised to use multiple research methods for this project. #131156
+建议你们在这个项目中使用多种研究方法。
+58.Students requiring an extension should apply sooner rather than later.#131160
+要求延期的学生应尽早申请，不宜推迟。
+59.The aerial photographs were promptly registered for thorough evaluation.#131174
+航拍照片被迅速登记，以便进行全面的评估。
+60.The application processes may take longer than expected.#131175
+申请过程可能比预期的时间更长。
+61.The archeologist's new discoveries stand out in previously overlooked foundations. #131176
+这位考古学家的新发现在以前被忽视的基础上更引人注目。
+62.The artists tied to the conservative politicians earned the role of critics.#131179
+那些与保守派政客有联系的艺术家成为了批评家。
+63.The assessment of this course will begin next week.#131180
+这门课的评估将于下周开始。
+64.The author’s early works were less philosophical and more experimental .#131181
+这个作者的早期作品更少哲理性，更多实验性。
+65.The book was supported by many faculty members.#131182
+这本书得到了许多教职员工的支持。
+66.The course helps students to improve their pronunciation skills.#131191
+这个课程帮助学生提高他们的发音技巧。
+67.The earth's atmosphere is primarily composed of oxygen and nitrogen gases.#131198
+地球大气层主要由氧气和氮气组成。
+68.The faculty staff are very approachable, friendly and extremely helpful.#131205
+教职工都很平易近人，友好，而且非常乐于助人。
+69.The first assignment is due on the fourteenth of September#131208
+第一次作业要在九月十四日交。
+70.The garden behind the university is open to the public in summer.#131209
+大学后面的花园在夏天对公众开放。
+71.The history of the university is a long and interesting one.#131211
+这所大学的历史悠久而有趣。
+72.The most popular courses still have a few places left.#131222
+最受欢迎的课程仍有一些空缺席位。
+73.The nation achieved prosperity by opening its ports for trade. #131224
+这个国家通过开放贸易港口而实现了繁荣。
+74.The office opens on Mondays and Thursdays directly following the freshman seminar. #131228
+办公室在周一和周四新生研讨会之后直接开放。
+75.The qualification will be assessed by using a criterion-referenced approach. #131230
+资格将通过使用参考标准进行评估。
+76.The summer course is canceled due to insufficient enrollment.#131245
+由于报名人数不足，夏季课程取消了。
+77.The synopsis contains the most important information. #131247
+大纲包含了最重要的信息。
+78.The theme of the instrumental work exhibits more of a demure compositional style.#131251
+这首乐器演奏的主题表现出了极为庄重的创作风格。
+79.The time of the math lecture has been changed to ten thirty.#131253
+数学课的时间已经改到十点半了。
+80.The ways in which people communicate are constantly changing.#131260
+人们交流的方式在不断变化。
+81.There are some doubts about whether these events actually occurred.#131262
+人们对这些事件是否真的发生过有些怀疑。
+82.This morning’s lecture on economic policy has been canceled. #131276
+今天早上的经济政策课取消了。
+83.Traffic is the main cause of air pollution in many cities. #131284
+在许多城市，交通是空气污染的主要原因。
+84.Tribes vied with each other to build monolithic statues.#131287
+部落为了建造巨型雕像而互相竞争。
+85.University fees are expected to increase next year.#131291
+预计明年大学学费将会上涨。
+86.Water filters on campus will discourage the unnecessary use of plastic bottles.#131293
+校园里的滤水器可以减少不必要地使用塑料瓶。
+87.We can’t consider any increase in our price at this stage.#131296
+在这个阶段，我们不能考虑任何的涨价。
+88.We study science to understand and appreciate the world around us.#131298
+我们学习科学是为了理解和欣赏我们周围的世界。
+89.We were able to contact a number of research subjects.#131301
+我们联系到了一些研究对象。
+90.You were able to contact a number of research subjects.#131315
+你可以联系到很多研究对象。
+91.Manufacture can now employ more people than agriculture and fishing combined.#131333
+制造业现在雇佣的人比农业和渔业加起来还要多
+92.Education and training provide important skills for the labor force. #131334
+教育培训为劳动力提供了重要的技能。
+93.The study of nutrition is a growing field.#131342
+营养学的研究是一个不断发展的领域。
+94.There is a welcome party for all new students each term.#131353
+每学期都有一个欢迎新生的晚会。
+95.They developed a unique approach to training their employees.#131356
+他们开发了一种独特的方法来培训他们的员工。
+96.Every student has both the right and the ability to succeed.#131366
+每个学生都有成功的权利和能力。
+97.Before submitting your dissertation, your advisor must approve your application.#131377
+在提交论文之前，您的导师必须批准您的申请。
+98.He was constantly looking for ways to bring industry and agriculture closer together.#131385
+他一直在寻找使工业和农业更紧密结合的方法。
+99.Making mistakes is fine as long as you learn from them. #131388
+只要你能从错误中吸取教训，犯错误没什么大不了的。
+100.Some people are motivated by competition, while others prefer collaboration.#131396
+有些人的动力是竞争，而另一些人更喜欢合作。
+101.Students attempting to go to the conference must register now.#131397
+想去参加会议的学生现在必须登记。
+102.The ability to work with fellow students cannot be stressed enough.#131401
+与同学一起工作的能力是再怎么强调也不为过的。
+103.Archeologists discovered tools and other artifacts near the ancient tomb. #131402
+考古学家在古墓附近发现了工具和其他手工艺品。
+104.The essay contains most of the important information.#131413
+这篇文章包含了大部分重要的信息。
+105.The plight of local wildlife has been ignored by developers.#131415
+当地野生动物的困境一直被开发商忽视。
+106.Mechanical engineering first became prominent during the Industrial Revolution.#131427
+机械工程在工业革命期间首次崭露头角。
+107.The lecture tomorrow will discuss the educational policy of the United States.#131428
+明天的讲座将讨论美国的教育政策。
+108.The department is organizing a trip to London in July.#131440
+该部门正在组织7月份飞往伦敦的旅行。
+109.Speed is defined as how quickly an object or a person moves.#131443
+速度的定义是物体或人移动的速度。
+110.Protective clothing must always be worn in the laboratory.#131449
+在实验室里必须一直穿着防护服。
+111.Make sure you choose a course that provides great career opportunities.#131452
+确保你选择的课程能提供很好的就业机会。
+112.We no longer respond to any post reference requests.#131454
+我们不再回应任何关于过账的请求。
+113.Sugar is a compound including carbon, oxygen, and hydrogen atoms.#131458
+糖是一种包括碳、氧和氢原子的化合物。
+114.International exchange formed the important part of our study program. #131461
+国际交流是我们学习计划的重要组成部分。
+115.Scientists were unsure when the early men first left Africa. #131462
+科学家们不能确定早期人类是什么时候第一次离开非洲的。
+116.The shipwreck of this year ruined some artifacts which were interested by historians.#131463
+今年的海难毁坏了一些历史学家感兴趣的文物。
+117.The bus for London will leave 10 minutes later than planned. #131466
+开往伦敦的公共汽车将比原计划晚开10分钟。
+118.Consumer confidence tends to increase as the economy expands.#131469
+随着经济繁荣，消费者信心往往会增强。
+119.Time and distance are used to calculate speed. #131479
+时间和距离被用来计算速度。
+120.The history department is very active in research. #131486
+历史系非常积极地参与研究工作。
+121.Every student has regular meetings with his or her personal tutor.#131488
+每个学生与他或她的私人导师定期会面。
+122.Castles were designed to intimidate both local people and enemies.#131495
+建造城堡是为了震慑当地人和敌人。
+123.Graphs and charts allowed data to be more easily understood.#131496
+图形和图表使数据更容易理解。
+124.A laptop computer has been found in the biology lab.#131499
+在生物实验室里发现了一台笔记本电脑。
+125.His appointment to the Minister of Culture was seen as a demotion. #131500
+他被任命为文化部长被认为是降职。
+126.Measures must be taken to prevent the unemployment rate from increasing. #131501
+必须采取措施防止失业率上升。
+127.Journalism faces the crisis in the light of the digital revolution. #131505
+新闻业面临着数字革命带来的危机。
+128.Request for late applications will not be accepted under any circumstances.#131509
+在任何情况下，都不接受逾期递交的申请。
+129.Salt is produced from sea water or extracted from the ground.#131513
+盐是从海水中产生的或从地下提取的。
+130.The northern campus car park is located behind the library.#131520
+校园北停车场位于图书馆后面。
+131.Molecules of a compound consist of chemically separate parts. #131522
+化合物的分子由化学上分离的部分组成。
+132.More graduate training is needed after university study has finished.#131523
+大学学习结束后，需要更多的研究生培训。
+133.Your ideas are encouraged to be debated in seminars and tutorials. #131530
+我们鼓励大家在研讨会和辅导课上讨论你的想法。
+134.Academic libraries across the world are steadily incorporating social media.#131534
+世界各地的学术图书馆都在逐步地使用社交媒体。
+135.Imported default packages are likely to be used for most computers.#131537
+大多数计算机可能会使用导入默认包。
+136.Students should leave their bags on the table behind the door. #131544
+学生应该把书包放在门后的桌子上。
+137.Please close the door behind you when you leave the room. #131566
+离开房间时请随手关门。
+138.Honey can be used as food and a valuable health product.#131575
+蜂蜜可以作为食品和有价值的保健产品。
+139.Farmers need to adapt to the changes in climate.#131577
+农民需要适应气候的变化。
+140.Many university lectures can now be viewed on the internet. #131579
+现在可以在网上观看许多大学的讲座。
+141.Linguistics is the scientific study and analysis of language.#131589
+语言学是针对语言的科学研究和科学分析。
+142.A new collection of articles has been published.#131607
+新的文章集已经出版。
+143.Auditions for the university choir will be held next week.#131614
+大学合唱团的海选将于下周举行。
+144.The disease that was serious has now been eradicated.#131615
+这种严重的疾病现在已经被根除了。
+145.Students must attend the safety instruction course before attending the engineering workshop. #131616
+学生在参加工程车间之前，必须先参加安全教育课程。
+146.Trees benefit the city by soaking up the rainwater that runs off the roads.#131622
+树木通过吸收从道路上流下的雨水的方式来助益城市。
+147.The commissioner will apportion the funds among all the authorities.#131625
+专员将把这笔资金分配给所有当局。
+148.Please note that the seminar has now been canceled.#131628
+请注意，研讨会现已取消。
+149.Many diseases that were once serious have now been eradicated.#131636
+许多曾经严重的疾病现在已被根除。
+150.Nutrition plays a key role in athletic performance. #131640
+营养物质在运动表现中起着关键作用。
+151.The deadline for this assignment is next Wednesday.#131647
+这个作业的截止日期是下周三。
+152.Members should make mandatory contributions to associated operating funds. #131692
+各成员应为相关运营基金进行强制性捐款。
+153.Statistically speaking, the likelihood of this result is extremely low.#131701
+从统计学上，出现这种结果的可能性极低。
+154.The terms, illness and disease, are confusing despite clear differences. #131707
+尽管“病”和“疾病”有明显的区别，但这两个术语仍然令人困惑。
+155.He wrote poetry and plays as well as scientific papers. #131724
+他不仅写科学论文，还写诗歌和戏剧。
+156.You need to hand in an essay next semester. #131725
+你需要在下个学期交一篇论文。
+157.Industry experts will discuss job opportunities in an automated workforce.#131732
+行业专家将讨论自动化劳动力市场中的工作机会。
+158.The economic predictions turned out to be incorrect. #131735
+经济预测结果是不正确的。
+159.The momentum is defined as the combination of mass and velocity.#131755
+动量被定义为质量和速度的结合。
+160.The cafeteria will only serve cold meals on Friday this week. #131763
+这周五食堂只供应冷餐。
+161.There have been long streams of extreme weather throughout human history.#131768
+在人类历史上，极端天气曾多次出现。
+162.Artificial intelligence has made significant progress in the last few years. #131778
+人工智能在过去几年中取得了重大进展。
+163. It is important to make clear notes when you are reading.#131781
+阅读时作清楚的笔记是很重要的。
+164.The untapped potential of using sunray is phenomenal. #131782
+利用太阳光的潜力是惊人的。
+165.The poster of this play is hung in the largest lecture theater.#131843
+这出戏的海报挂在最大的演讲厅里。
+166.Optional tutorials are offered in the final week of the term.#131850
+选修辅导课在学期的最后一周提供。
+167.Technology is changing the way that media is used and studied.#131851
+科技正在改变人们使用和研究媒体的方式。
+168.You will be tested by continuous assessments and examinations.#131861
+你将以持续评估和考试的方式接受测试。
+169.Climate change is not a pure reason for this scientific research.#131867
+这项科学研究并不单纯是因为气候变化。
+170.Practical experience is a vital part of legal training. #131885
+实践经验是法律培训的重要组成部分。
+171.Easter Island is a small island in the southeastern Pacific Ocean.#131894
+复活节岛是太平洋东南部的一个小岛。
+172.There is a pharmacy on campus near the bookstore.#131898
+校园里书店附近有个药房。
+173.In language learning, a systematic method of categorizing new vocabulary is essential. #131900
+在语言学习中，系统化地对新词汇进行分类是必不可少的。
+174.The history course is assessed via three written assignments.#131902
+历史课通过三份书面作业来评估。
+175.The other book isn't thorough, but it's more insightful.#131918
+另一本书不够详尽，但更有见地。
+176.We have sophisticated ways of studying the brain in action.#131928
+我们有复杂成熟的方法来研究大脑的活动。
+177.The dance department stages elaborated performances each semester.#131929
+舞蹈系的舞台每学期都会呈现精心编排的表演。
+178.Student representatives will be visiting the classrooms with voting forms.#131933
+学生代表将带着投票表格去每个教室。
+179.The article considers the leisure habits of teenagers in rural areas.#131934
+本文展现了农村青少年的休闲习惯。
+180.The university will seek a colossal renovation to the faint empty theater.#131942
+这所大学将对那座昏暗空旷的剧院进行大规模整修。
+181.Students must present a valid identification to enroll in this course.#131956
+学生须出示有效身份证明方可报读本课程。
+182.The instant availability of information has radically changed people's lives.#131963
+信息的即时可用性从根本上改变了人们的生活。
+183.It is essential for companies to reduce the harmful gases released into the atmosphere.#131979
+对于公司来说，减少排放到大气中的有害气体是至关重要的。
+184.The exam application system has been upgraded for professional exams.#131981
+针对专业考试我们升级了考试申请系统。
+185.We are committed to recruiting candidates from all backgrounds and identities. #131983
+我们致力于招聘各种背景和身份的候选人。
+186.New media has transcended traditional national boundaries.#131986
+新媒体超越了传统的国界。
+187.Please confirm that you have received the textbook.#131987
+请确认课本已经收到。
+188.One student representative will be selected from each class.#131990
+每个班将选出一名学生代表。
+189.The accountancy students must hand in their dissertations this week.#131993
+会计专业的学生必须在本周交论文。
+190.While some people regard it as care, others regard it as recklessness.#131996
+虽然有些人认为这是关心，其他人认为这是鲁莽。
+191.The full list of undergraduate programs can be found on the website. #1311001
+完整的本科课程列表可以在网站上找到。
+192.We have a great deal of debate on that topic. #1311019
+我们在那个话题上有很多争论。
+193.Many students are now studying science, technology, engineering and maths.#1311023
+许多学生现在正在学习科学、技术、工程和数学。
+194.Visual aid can be really helpful when you are revising. #1311025
+当你复习的时候，视觉辅助真的很有帮助。
+195.The marketing budget has been doubled since the beginning of the year.#1311026
+营销预算自年初以来已经翻了一番。
+196.We encourage students to complete their applications before the deadline . #1311027
+我们鼓励学生在截止日期前完成申请。
+197.I will come back to this in a moment. #1311028
+我稍后会回到这个问题上。
+198.Lectures are the oldest and the most formal teaching method at university.#1311033
+讲座是大学里最古老、最正式的教学方法。
+199.Research shows that exercising makes us feel better.#1311034
+研究表明，锻炼让我们感觉更好。
+200.The student shop sells a range of stationery.#1311037
+学生商店出售各种文具。
+201.Today we have a guest speaker who is visiting from Canada#1311043
+今天我们请来了一位来自加拿大的客座演讲者。
+202.Graduates from this course typically pursue careers in financial sector.#1311047
+这门课程的毕业生通常会在金融部门工作。
+203.It is a debate about the value of knowledge.#1311050
+这是一场关于知识价值的辩论。
+204.Tutors should set a clear goal at the start of the class.#1311053
+导师应该在课程开始时设定一个明确的目标。
+205.Students who study overseas can significantly improve their work chances.#1311056
+出国留学的学生可以显著提高他们的工作机会。
+206.Strangely, people are simultaneously impressed by and are skeptical about using statistics. #1311057
+奇怪的是，人们同时既对统计数据印象深刻，又对使用统计数据持怀疑态度。
+207.Many students live in the hall of residence in term time.#1311058
+许多学生在学期期间住在宿舍里。
+208.Vocabulary that is peculiar in a special field is called jargon.#1311059
+在某一特定领域特有的词汇被称为“行话”。
+209.The timetable for the next term will be available next week.#1311061
+下学期的课程表将于下周公布。
+210.Keeping organized class notes will make study time more efficient.#1311062
+有条理的课堂笔记会让学习时间更有效率。
+211.You must answer security questions when you reset your password.#1311063
+当你重设密码时，你必须回答安全问题。
+212.Astronomers use light years to measure distance in space.#1311064
+天文学家用“光年”来测量太空中的距离。
+213.Currently the growth of the economy is unpredictable.#1311065
+目前的经济增长是不可预测的。
+214.The collapse of the housing market has triggered recessions throughout the world.#1311066
+房地产市场的崩溃引发了世界各地的经济衰退。
+215.When the roots of a plant fail, foliage suffers.#1311067
+当植物的根断了，叶子就会遭殃。
+216.The course involves a combination of pure and applied mathematics.#1311068
+这门课程涉及纯数学和应用数学的结合。
+217.It is clear that a national trading system is a good thing.#1311069
+很明显，国家贸易体系是一件好事。
+218.Calculators allow us to add numbers without making mistakes.#1311070
+计算器使我们加数字时不犯错误。
+219.A demonstrated ability to write clear, correct and concise English is bigotry.#1311071
+（坚持）写出清晰、正确、简洁的英语是一种偏执。
+220.Most of the lectures begin promptly, so do not be late.#1311072
+大多数的讲座都会准时开始，所以不要迟到。
+221.The study of physiology involves traditional sciences and social sciences.#1311074
+生理学的研究涉及传统科学和社会科学。
+222.Students must wear protective clothing that is provided in the medical laboratory.#1311075
+学生必须穿着医学实验室提供的防护服。
+223.The stock market cracked and had repercussions throughout the world.#1311076
+股市崩盘，影响波及全球。
+224.The student union hosts a variety of social events.#1311077
+学生会举办各种各样的社交活动。
+225.The department will continue to offer three new scholarships next year. #131076
+该系明年将继续提供三项新奖学金。
+226.The business policy seminar includes an internship with a local firm. #131183
+商业政策研讨会包括了一份在当地公司的实习（工作）。
+227.The campus tour will help you to get familiar with the teaching facilities.#131185
+校园参观将帮助你熟悉教学设施。
+228.We have not yet achieved equality in our society. #131297
+我们的社会还没有实现平等。
+229.The university should have invested in new technology to support learning.#131367
+大学应该投资新技术来支持学习。
+230.Sea levels are expected to rise during the next century.#131556
+海平面预计在下个世纪会上升。
+231.The degree is taught by using a mixture of lectures and seminars.#131650
+该学位是通过讲座和研讨课的结合来教授的。
+232.The amount of time spent on configuration varies considerably. #131663
+花费在配置上的时间差别很大。
+233.All student union students can register their names to get that service.#1311073
+所有学生会的学生都可以注册他们的名字来获得这项服务。
