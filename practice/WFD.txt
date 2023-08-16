@@ -1,0 +1,28 @@
+/home/ev-docker/overlay2/131cd83560e19a790e275846d63ff3cb6e8a3ac01200a08e5d1ca9a7388f648d/diff
+
+/home/ev-docker/overlay2/434677831cf31966c6d74edb6fa14ecc21df5f418b22af733809f3cad0560014/diff
+
+
+
+/home/ev-docker/overlay2/7e2cabb2c43882cc5b6acfce3d3778571585d63e56e59cf6052394084bfe5be8/diff
+
+
+
+
+
+docker ps -a|grep stairwellhandrails_3101_gpu|awk '{print $1}'|xargs -I {} docker rm {}
+
+
+docker ps -a|awk '{print $1}'|xargs -I {} docker rm {}
+
+
+docker ps -a|grep stairwellhandrails3101gpu11162|awk '{print $1}'|xargs -I {} docker rm {}
+
+docker ps -a|grep stairwellhandrails_3101_gpu|awk '{print $1}'|xargs -I {} docker rm {}
+
+
+/home/ev-docker/overlay2/113cd8071327fac26e0f23c756af2ef3ba5f74abb86a238310cc1505e494fabc/diff/usr/local/ev_sdk/model/escalator.onnx
+/home/ev-docker/overlay2/79c6f5613d6527a396a1370978028103bac648a762623120ddd1f1149e1d5466/diff/usr/local/ev_sdk/model/escalator.onnx
+
+
+/var/log/pods/<pod namespace>_<pod name>_<pod uid>
