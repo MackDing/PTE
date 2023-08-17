@@ -3,7 +3,10 @@ I thought a good archiectural structure should be useful, durable and beautiful.
 A group meeting will be held tomorrow in the library conference room.
 A number of students have volunteer jobs.
 Educational level is found to be rrelated to social and economic background.
-We canall meet at scheduled in the final week of the term.
+We can all meet at my office after the lecture.
+Tutorials are scheduled in the final week of the term.
+You can make an appointment to meet the librarian.
+Afforrable housing is an important issue for all member of society.
 /home/ev-docker/overlay2/131cd83560e19a790e275846d63ff3cb6e8a3ac01200a08e5d1ca9a7388f648d/diff
 
 /home/ev-docker/overlay2/434677831cf31966c6d74edb6fa14ecc21df5f418b22af733809f3cad0560014/diff
