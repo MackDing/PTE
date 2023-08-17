@@ -7,6 +7,9 @@ We can all meet at my office after the lecture.
 Tutorials are scheduled in the final week of the term.
 You can make an appointment to meet the librarian.
 Afforrable housing is an important issue for all member of society.
+All dissertations must be accopanied by a submission form.
+All industries are a system of inputs, processes, outputs and feedback.
+
 /home/ev-docker/overlay2/131cd83560e19a790e275846d63ff3cb6e8a3ac01200a08e5d1ca9a7388f648d/diff
 
 /home/ev-docker/overlay2/434677831cf31966c6d74edb6fa14ecc21df5f418b22af733809f3cad0560014/diff
