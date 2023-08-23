@@ -57,12 +57,13 @@ Some students find that true or false questions are harder than short answers.
 You are advised to use multiple research methods for this project.
 Students requiring an extension should apply sooner rather than later.
 The aerial photographs were promptly registered for expected.
+The application processes may take longer than expected.
 The archeologist's new discoveries stand out in previously overlooked foundations.
-The application processes may take longerthan expected.
-The archeologist's new discoveries stand out in previously ovwelooked foundations.
-Theartists tied ti the conservative politicians earned the role of critics.
+The artists tied to the conservative politicians earned the role of critics.
 The assessment of this course will begin next week.
-
+The author's early works were less philosophical and more experimental.
+The book was supported by many faculty members.
+The course helps students to improve their pronunciation skills.
 
 
 /home/ev-docker/overlay2/131cd83560e19a790e275846d63ff3cb6e8a3ac01200a08e5d1ca9a7388f648d/diff
