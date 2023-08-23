@@ -1,0 +1,141 @@
+The celebrated theory is still the source of great controversy.
+I thought a good architectural structure should be useful, durable and beautiful.
+A group meeting will be held tomorrow in the library conference room.
+A number of students have volunteer jobs.
+Educational level is found to be associated with social and economic background.
+We can all meet at my office after the lecture.
+Tutorials are scheduled in the final week of the term.
+You can make an appointment to meet the librarian.
+Affordable housing is an important issue for all member of society.
+Agenda items should be submitted by the end of the day.
+All dissertations must be accompanied by a submission form.
+All industries are a system of inputs, processes, outputs and feedback.
+All of the assignments must be submitted in person to the faculty office.
+Economic development needs to be supported by the government.government
+All of your assignments are due by tomorrow.
+All students are expected to attend ten lab sessions per semester.
+Our view is that educational reforms have been inadequately implemented.
+Although sustainable development is not easy, it is an unavoidable responsibility.
+Americans have typically defined the process of plant growth in quantitative terms.
+An ancient text may hold secrets which were lost centuries ago.
+An introduction is an essential element of presentation.
+And in that regard, as well as is other regards, it stands as an important contribution.
+The assignments should be submitted to the department office before the deadlines.
+Before attending classes, you must register online or by post.
+Behind the group, there is a flat cart drawn by mules.
+Climate change is now an acceptable phenomenon among a group of reputable scientists.
+Clinical placements in nursing prepare students for professional practice.
+Conferences ought to be always scheduled two weeks in advance.
+Consumer confidence has a direct influence on sales.
+Convincing evidence to support this theory is hard to obtain.
+Daily practice can build confidence and improve skills.
+The economic strength of the early Roma Republic will be examined.
+He landed a job in a very prestigious law firm.
+I thought it was through the small meeting room.
+If finance is cause of concern, scholarships may be available.
+If you need additional help, visit the student resource center.
+Important data from the argument are missing in summary.
+It is absolutely vital that you acknowledge all your sources.
+Listening is the key skill needed to succeed in this course.
+Many birds migrate to warmer areas for the winter.
+A national Center of Excellence is currently being built.
+Nurses can specialize in clinical work and management.
+Our professor is hosting the business development conference.
+Packaging is very important to attract the attention of a buyer.
+Peer group pressure has a significant effect on young people.
+Plants are the living things that can grow in land or in water.
+Please note that the submission deadlines are only negotiable in exceptional circumstance.
+Please remember to bring a highlighter and your textbook to class next Thursday.
+All of your assignments are due on Wednesday.
+Radio is a popular from of entertainment throughout the world.
+Remember, the prestigious election of stewardship has strict eligibility criteria.
+The supposed benefits of space exploration are frequently questioned.
+Scientists are always asking the government for more money.
+The speaker began ny giving an financial system is fatally flawed.
+Some economists argue that true the entire financial system is fatally flawed.
+Some students find that true or false questions are harder than short answers.
+You are advised to use multiple research methods for this project.
+Students requiring an extension should apply sooner rather than later.
+The aerial photographs were promptly registered for expected.
+The archeologist's new discoveries stand out in previously overlooked foundations.
+The application processes may take longerthan expected.
+The archeologist's new discoveries stand out in previously ovwelooked foundations.
+Theartists tied ti the conservative politicians earned the role of critics.
+The assessment of this course will begin next week.
+
+
+
+/home/ev-docker/overlay2/131cd83560e19a790e275846d63ff3cb6e8a3ac01200a08e5d1ca9a7388f648d/diff
+
+/home/ev-docker/overlay2/434677831cf31966c6d74edb6fa14ecc21df5f418b22af733809f3cad0560014/diff
+
+
+
+/home/ev-docker/overlay2/7e2cabb2c43882cc5b6acfce3d3778571585d63e56e59cf6052394084bfe5be8/diff
+
+
+docker run -it \
+  -p 8080:8080 -v $HOME/.tabby:/data \
+  tabbyml/tabby serve --model TabbyML/SantaCoder-1B
+
+docker run -it \
+  --gpus all -p 8080:8080 -v $HOME/.tabby:/data \
+  tabbyml/tabby \
+  serve --model TabbyML/SantaCoder-1B --device cuda &
+
+
+docker run -d \
+    --name=nginx-proxy-manager \
+    -p 8181:8181 \
+    -p 8080:8080 \
+    -p 4443:4443 \
+    -v /docker/appdata/nginx-proxy-manager:/config:rw \
+    jlesage/nginx-proxy-manager
+
+docker ps -a|grep stairwellhandrails_3101_gpu|awk '{print $1}'|xargs -I {} docker rm {}
+
+
+docker ps -a|awk '{print $1}'|xargs -I {} docker rm {}
+
+
+docker ps -a|grep stairwellhandrails3101gpu11162|awk '{print $1}'|xargs -I {} docker rm {}
+
+docker ps -a|grep stairwellhandrails_3101_gpu|awk '{print $1}'|xargs -I {} docker rm {}
+
+
+/home/ev-docker/overlay2/113cd8071327fac26e0f23c756af2ef3ba5f74abb86a238310cc1505e494fabc/diff/usr/local/ev_sdk/model/escalator.onnx
+/home/ev-docker/overlay2/79c6f5613d6527a396a1370978028103bac648a762623120ddd1f1149e1d5466/diff/usr/local/ev_sdk/model/escalator.onnx
+
+
+/var/log/pods/<pod namespace>_<pod name>_<pod uid>
+
+#!/bin/bash
+
+# Update system packages
+sudo apt update
+sudo apt upgrade -y
+
+# Install common utilities
+sudo apt install -y curl wget git unzip lrzsz
+
+# Install development tools
+sudo apt install -y build-essential
+
+# Install and configure Git
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+# Install and configure Miniconda (optional)
+# Download Miniconda installer
+wget "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh" -O "Miniconda3.sh"
+# Run installer
+bash Miniconda3.sh -b -p $HOME/miniconda3
+# Add Miniconda to PATH
+echo 'export PATH="$HOME/miniconda3/bin:$PATH"' >> $HOME/.bashrc
+source $HOME/.bashrc
+
+# Install commonly used programming languages and tools (e.g., Python)
+conda install -y python
+
+# Clean up
+rm Miniconda3.sh
