@@ -64,16 +64,26 @@ The assessment of this course will begin next week.
 The author's early works were less philosophical and more experimental.
 The book was supported by many faculty members.
 The course helps students to improve their pronunciation skills.
+The earth's atmosphere is primarily composed of oxygen and nitrogen gases.
+The faculty staff are very approachable, friendly and extremely helpful.
+The first assignment is due on the fourteenth of September.
+The garden behind the university is aopen to the public in summer.
+The history of the university is along and interesting one.
+The most popular courses still have a few places left.
+The nation achieved proserity by opening its ports trade. 
+The office opens on Mondays and Tuesdays directly following the freshman seminar.
+The qualification will be assessecd by using a criterion-referenced approach.
+The summer course is canceled due to insufficient enrollment.
+The synopsis contains themost important information.
+The theme of the instrumental work exhibits more of a demure compositional style.
+The time of the math lecture has been changed to ten thirty.
+The ways in which people communicate are constantly.
+
 
 
 /home/ev-docker/overlay2/131cd83560e19a790e275846d63ff3cb6e8a3ac01200a08e5d1ca9a7388f648d/diff
-
 /home/ev-docker/overlay2/434677831cf31966c6d74edb6fa14ecc21df5f418b22af733809f3cad0560014/diff
-
-
-
 /home/ev-docker/overlay2/7e2cabb2c43882cc5b6acfce3d3778571585d63e56e59cf6052394084bfe5be8/diff
-
 
 docker run -it \
   -p 8080:8080 -v $HOME/.tabby:/data \
@@ -83,7 +93,6 @@ docker run -it \
   --gpus all -p 8080:8080 -v $HOME/.tabby:/data \
   tabbyml/tabby \
   serve --model TabbyML/SantaCoder-1B --device cuda &
-
 
 docker run -d \
     --name=nginx-proxy-manager \
@@ -95,15 +104,12 @@ docker run -d \
 
 docker ps -a|grep stairwellhandrails_3101_gpu|awk '{print $1}'|xargs -I {} docker rm {}
 
-
 docker ps -a|awk '{print $1}'|xargs -I {} docker rm {}
 
 
 docker ps -a|grep stairwellhandrails3101gpu11162|awk '{print $1}'|xargs -I {} docker rm {}
 
 docker ps -a|grep stairwellhandrails_3101_gpu|awk '{print $1}'|xargs -I {} docker rm {}
-
-
 /home/ev-docker/overlay2/113cd8071327fac26e0f23c756af2ef3ba5f74abb86a238310cc1505e494fabc/diff/usr/local/ev_sdk/model/escalator.onnx
 /home/ev-docker/overlay2/79c6f5613d6527a396a1370978028103bac648a762623120ddd1f1149e1d5466/diff/usr/local/ev_sdk/model/escalator.onnx
 
