@@ -140,7 +140,7 @@ Farmers need to adapt to the changes in climate.
 Many university lectures can now be viewed on the internet.
 Linguistics is the scientific study and analysis of language.
 A new collection of articles has been published.
-Auditions for the university chour will be held next week.
+Auditions for the university choir will be held next week.
 The disease that was serious has now been eradicated.
 Students must attend the safety instruction course before attending the engineering workshop.
 Trees benefit the city by soaking up the rainwater that runs off the roads.
@@ -149,30 +149,88 @@ Please note that the seminar has now been canceled.
 Many diseases that were once serious have now been eradicated.
 Nutrition plays a key role in athletic performance.
 The deadline for this assignment is next Wednesday.
-Members should makemandatory contributions to associated operating funds.
+Members should make mandatory contributions to associated operating funds.
 Statistically speaking, the likelihood of this result is extremely low.
 The terms, illness and disease, are confusing despite clear differences.
 He wrote poetry and plays as well as scientific papers.
 You need to hand in an essay next semester.
-Industry experts will discuss job opportunuties in an automated workforce.
+Industry experts will discuss job opportunities in an automated workforce.
 The economic predictions turned out to be incorrect.
 The momentum is defined as the combination of mass and velocity.
-The cafeteria will only serve cold meals on Firday this week.
+The cafeteria will only serve cold meals on Friday this week.
 There have been long streams of extreme weather throughout human history.
-Artifical intelligence has made significant progress in the lasfew years.
+Artificial intelligence has made significant progress in the last few years.
 It is important to make clear notes when you are reading.
 The untapped potential of using sunray is phenomenal.
 The poster of this play is hung in the largest lecture theater.
-Optional tutorialsare offered in the final week of the term.
+Optional tutorials are offered in the final week of the term.
 Technology is changing the wat that media is used and studied.
 You will be tested by continuous assessments and examinations.
 Climate change is not a pure reason for this scientific research.
-
-
-
-
-
-
+Practical experience is a vital part of legal training.
+Easter Island is a small island in the southeastern Pacific Ocean.
+There is a pharmacy on campus near the bookstore.
+In language learning, a systematic method of categorizing new vocabulary is essential.
+The history course is assessed via three written assignments.
+The other book isn't thorough, but it's more insightful.
+We have sophisticated ways of studying the brain in action.
+The dance department stages elaborated performances each semester.
+Student representatives will be visiting the classrooms with voting forms.
+The article considers the leisure habits of teenagers in rural areas.
+The university wll seek a colossal renovation to the faint empty theater.
+Students must present a valid identification to enroll in this course.
+The instant availability of information has radically changed people's lives.
+It is essential for companies to reduce the harmful gases released into atmosphere.
+The exam application system has been upgraded for professional exams.
+We are committed to recruiting traditional national boundaries.
+New media has transcended traditional national boundaries.
+Please confirm that you have received the textbook.
+One student representative will be selected from each class.
+The accountancy students must hand in their dissertations this week.
+While some people regard it as care, others regard it as recklessness.
+The full list of undergraduate programs can be found on the website.
+We have a great deal of debate on that topic.
+Many students are now studying science, technology, engineering and maths.
+Visual aid can be really helpful when you are revising.
+The marketing budget has been doubled since the beginning of the year.
+We encourage students to complete their application before deadline.
+I will come back to this in a moment.
+Lectures are the oldest and the most formal teaching method at university.
+Research shows that exercising makes us feel better.
+The student shop sells a range of stationery.
+Today we have a guest speaker who is visiting from Canada.
+Graduates from this course typically pursue careers in financial sector.
+It is debate about the value of knowledge.
+Tutors should set a clear goal at the start of the class.
+Students who study overseas can significantly improve their work chances.
+Strangely, people are simultaneously impressed by and are skeptical about using statistics.
+Many students live in the hall of residence in term time.
+Vocabulary that is peculiar in a special field is called jargon.
+The timetable for the next term will be available next week.
+Keeping organized class notes will make study time more efficient.
+You must answer security questions when you reset your password.
+Astronomers use light years to measure distance in space.
+Currently the growth of the economy is unpredictable.
+The collapse of the housing market has triggered recessions throughout the world.
+When the roots of a plant fail, foliage suffers.
+The course involves a combination of pure and applied mathematics.
+It is clear that a national treading system is a good thing,
+Calculators allow us to add numbers without making mistakes.
+A demonstrated ability to write clear, correct and concise English is bigotry.
+Most of the lectures begin promptly, so do not be late.
+The study of physiology involves traditional sciences and social sciences.
+Students must wear protective clothing that is provided in the medical laboratory.
+The stock market cracked and had repercussions throughout the world.
+The student union hosts a variety of social events.
+The department will continue to offer three new scholarships next year.
+The business policy seminar includes an internship with a local firm.
+The campus tour will be help you to get familiar with the teaching facilities.
+We have not yet achieved equality in our society.
+The university should have invested in new technology to support learning.
+Sea levels are expected to rise during the next century.
+The degree is taught by using a mixture of lectures and seminars.
+The amount of time spent on configuration varies considerably.
+All student union students can register their names to get that service.
 
 /home/ev-docker/overlay2/131cd83560e19a790e275846d63ff3cb6e8a3ac01200a08e5d1ca9a7388f648d/diff
 /home/ev-docker/overlay2/434677831cf31966c6d74edb6fa14ecc21df5f418b22af733809f3cad0560014/diff
