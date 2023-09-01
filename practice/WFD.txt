@@ -1,8 +1,62 @@
-
-
-
-
-
-
+The celebrated theory is still the source of great controversy.
+I thought a good architectural structure should be useful, durable and beautiful.
+A group meeting will be held tomorrow in the library conference room.
+A number of students have volunteer jobs.
+Educational level is found to be related to socical and economic background.
+We can all meet at my office after the lecture.
+Tutorials are scheduled in the final week of the term.
+You can make an appointment to meet the librarian.
+Affordable housing is an important issue for all members of society.
+Agenda items should be submitted by the end of the day.
+All dissertations must be accompanied bt a submission form.
+All industries are a system of input, processes, output and feedback.
+All of the assignments must be submitted in person to the faculty office.
+Economic development needs to be supported by the government.
+All of your assignments are due by tomorrow.
+All students are expected to attend ten lab session per semester.
+Our vierw is that educational reforms have been inadquately implemented.
+Although sustainabkle development is not easy, it is an unavoidable responsibity.
+Americans have typically defined the process of plant grouth in quantitaive terms.
+An ancient text may hold secrets which were lost centuries ago.
+An introduction is an essential element of presentation.
+And in the regard, as well as in other regards, it stands as an important contribution.
+The assignments should be submitted to the department office before the deadlines.
+Before attending classes, you must register online or by post.
+Behind the group, there is flat cart drawn by mules.
+Climate change is now an acceptable phenomenon among a group of reputable scientists.
+Clinical placements in nursing prepaare students for professional practice.
+Conferences ought to bealways scheduled two weeks in adcance.
+Consumer confidence has a direct influence on sales.
+Convincing evdence to support this theoty is hard to obtain.
+Daily practice can build confidence and improve skills.
+The economic strength of the early RToma Republic will be examined.
+He landed a job in a very prestigious law firm.
+I thought it was tgrough the small meeting room.
+If finance is a cause if concern, scholarships may be available. 
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
+
+/home/ev-docker/overlay2/131cd83560e19a790e275846d63ff3cb6e8a3ac01200a08e5d1ca9a7388f648d/diff
+
+/home/ev-docker/overlay2/434677831cf31966c6d74edb6fa14ecc21df5f418b22af733809f3cad0560014/diff
+
+/home/ev-docker/overlay2/7e2cabb2c43882cc5b6acfce3d3778571585d63e56e59cf6052394084bfe5be8/diff
+
+
+
+docker ps -a|grep stairwellhandrails_3101_gpu|awk '{print $1}'|xargs -I {} docker rm {}
+
+
+docker ps -a|awk '{print $1}'|xargs -I {} docker rm {}
+
+
+docker ps -a|grep stairwellhandrails3101gpu11162|awk '{print $1}'|xargs -I {} docker rm {}
+
+docker ps -a|grep stairwellhandrails_3101_gpu|awk '{print $1}'|xargs -I {} docker rm {}
+
+
+/home/ev-docker/overlay2/113cd8071327fac26e0f23c756af2ef3ba5f74abb86a238310cc1505e494fabc/diff/usr/local/ev_sdk/model/escalator.onnx
+/home/ev-docker/overlay2/79c6f5613d6527a396a1370978028103bac648a762623120ddd1f1149e1d5466/diff/usr/local/ev_sdk/model/escalator.onnx
+
+
+/var/log/pods/<pod namespace>_<pod name>_<pod uid>
