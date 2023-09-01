@@ -2,7 +2,7 @@ The celebrated theory is still the source of great controversy.
 I thought a good archiectural structure should be useful, durable and beautiful.
 A group meeting will be held tomorrow in the library conference room.
 A number of students have volunteer jobs.
-Educational level is found to be rrelated to social and economic background.
+Educational level is found to be related to social and economic background.
 We can all meet at my office after the lecture.
 Tutorials are scheduled in the final week of the term.
 You can make an appointment to meet the librarian.
@@ -20,7 +20,6 @@ Americans have typically defined the process of plant growth in quantitative ter
 An ancient text may hold secrets which were lost centuries ago.
 An introduction is an essential element of presentation.
 And in that regard, as well as is other regards, it stands as an important contribution.
-
 
 
 /home/ev-docker/overlay2/131cd83560e19a790e275846d63ff3cb6e8a3ac01200a08e5d1ca9a7388f648d/diff
