@@ -2,7 +2,7 @@ The celebrated theory is still the source of great controversy.
 I thought a good architectural structure should be useful, durable and beautiful.
 A group meeting will be held tomorrow in the library conference room.
 A number of students have volunteer jobs.
-Educational level is found to be related to socical and economic background.
+Educational level is found to be related to social and economic background.
 We can all meet at my office after the lecture.
 Tutorials are scheduled in the final week of the term.
 You can make an appointment to meet the librarian.
@@ -14,9 +14,9 @@ All of the assignments must be submitted in person to the faculty office.
 Economic development needs to be supported by the government.
 All of your assignments are due by tomorrow.
 All students are expected to attend ten lab session per semester.
-Our vierw is that educational reforms have been inadquately implemented.
-Although sustainabkle development is not easy, it is an unavoidable responsibity.
-Americans have typically defined the process of plant grouth in quantitaive terms.
+Our view is that educational reforms have been inadequately implemented.
+Although sustainable development is not easy, it is an unavoidable responsibility.
+Americans have typically defined the process of plant growth in quantitative terms.
 An ancient text may hold secrets which were lost centuries ago.
 An introduction is an essential element of presentation.
 And in the regard, as well as in other regards, it stands as an important contribution.
@@ -24,54 +24,50 @@ The assignments should be submitted to the department office before the deadline
 Before attending classes, you must register online or by post.
 Behind the group, there is flat cart drawn by mules.
 Climate change is now an acceptable phenomenon among a group of reputable scientists.
-Clinical placements in nursing prepaare students for professional practice.
-Conferences ought to bealways scheduled two weeks in adcance.
+Clinical placements in nursing prepare students for professional practice.
+Conferences ought to be always scheduled two weeks in advance.
 Consumer confidence has a direct influence on sales.
-Convincing evdence to support this theoty is hard to obtain.
+Convincing evidence to support this theory is hard to obtain.
 Daily practice can build confidence and improve skills.
-The economic strength of the early RToma Republic will be examined.
+The economic strength of the early Roma Republic will be examined.
 He landed a job in a very prestigious law firm.
-I thought it was tgrough the small meeting room.
+I thought it was through the small meeting room.
 If finance is a cause if concern, scholarships may be available. 
-If you nees additional help, visit the student reaouece center.
-Important data from the artgument are missing in the summary.
+If you need additional help, visit the student resource center.
+Important data from the argument are missing in the summary.
 It is absolutely vital that you acknowledge all your source.
 Listening is the key skill needed to succeed in this course.
 Many birds migrate to warmer areas for the winter.
 A National Center of Excellence is currently being built.
 Nurses can specialize in clinical work and management.
 Our professor is hosting the business development conference.
-Packaging is very important trro attract the attention of a buyer.
+Packaging is very important to attract the attention of a buyer.
 Peer group pressure has a significant effect on young people.
 Plants are the living things that can grow in land or in water.
-Please note that the submissioon deadline are only negottiable in exceptional circumstances.
-Please remember to bring a highlighter and your textbook to class next Thirsday.
-All of your assignments are due on Wedenesday.
+Please note that the submission deadline are only negotiable in exceptional circumstances.
+Please remember to bring a highlighter and your textbook to class next Thursday.
+All of your assignments are due on Wednesday.
 Radio is a popular form of entertainment throughout the world.
 Remember, the prestigious election of stewardship has strict eligibility criteria.
-The supposed benifits of space exploration are frequently questioned.
+The supposed benefits of space exploration are frequently questioned.
 Scientists are always asking the government for more money.
 The speaker began by gibing an outline of her presentation.
-Some economists argue that the entire financial statem is fatally flawed.
-Some students find that ture or false questions are harder than short answers.
+Some economists argue that the entire financial system is fatally flawed.
+Some students find that true or false questions are harder than short answers.
 You are advised to use multiple research methods for this project.
 Students requiring an extension should apply sooner rather than later.
-The aerial photograps were promptly registered for thorough evaluation.
+The aerial photographs were promptly registered for thorough evaluation.
 The application processes may take longer than expected.
 The archeologist's new discoveries stand out in previously overlooked foundations.
-The artiststied to the conservative politicians earned the role of critice.
+The artists tied to the conservative politicians earned the role of critics.
 
 
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
 /home/ev-docker/overlay2/131cd83560e19a790e275846d63ff3cb6e8a3ac01200a08e5d1ca9a7388f648d/diff
-
 /home/ev-docker/overlay2/434677831cf31966c6d74edb6fa14ecc21df5f418b22af733809f3cad0560014/diff
-
 /home/ev-docker/overlay2/7e2cabb2c43882cc5b6acfce3d3778571585d63e56e59cf6052394084bfe5be8/diff
-
-
 
 docker ps -a|grep stairwellhandrails_3101_gpu|awk '{print $1}'|xargs -I {} docker rm {}
 
