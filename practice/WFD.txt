@@ -37,6 +37,30 @@ If you nees additional help, visit the student reaouece center.
 Important data from the artgument are missing in the summary.
 It is absolutely vital that you acknowledge all your source.
 Listening is the key skill needed to succeed in this course.
+Many birds migrate to warmer areas for the winter.
+A National Center of Excellence is currently being built.
+Nurses can specialize in clinical work and management.
+Our professor is hosting the business development conference.
+Packaging is very important trro attract the attention of a buyer.
+Peer group pressure has a significant effect on young people.
+Plants are the living things that can grow in land or in water.
+Please note that the submissioon deadline are only negottiable in exceptional circumstances.
+Please remember to bring a highlighter and your textbook to class next Thirsday.
+All of your assignments are due on Wedenesday.
+Radio is a popular form of entertainment throughout the world.
+Remember, the prestigious election of stewardship has strict eligibility criteria.
+The supposed benifits of space exploration are frequently questioned.
+Scientists are always asking the government for more money.
+The speaker began by gibing an outline of her presentation.
+Some economists argue that the entire financial statem is fatally flawed.
+Some students find that ture or false questions are harder than short answers.
+You are advised to use multiple research methods for this project.
+Students requiring an extension should apply sooner rather than later.
+The aerial photograps were promptly registered for thorough evaluation.
+The application processes may take longer than expected.
+The archeologist's new discoveries stand out in previously overlooked foundations.
+The artiststied to the conservative politicians earned the role of critice.
+
 
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
