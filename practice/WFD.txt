@@ -36,6 +36,8 @@ If finance is a cause if concern, scholarships may be available.
 If you nees additional help, visit the student reaouece center.
 Important data from the artgument are missing in the summary.
 It is absolutely vital that you acknowledge all your source.
+Listening is the key skill needed to succeed in this course.
+
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
