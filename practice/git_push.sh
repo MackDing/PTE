@@ -1,14 +1,15 @@
 #!/bin/bash
+cd "$(dirname "$0")"
+# Check if WFD.txt has been modified
+if [[ -n $(git status --porcelain WFD.txt) ]]; then
+  # WFD.txt has changes, add it to the staging area
+  git add WFD.txt
 
-# 检查是否提供了 commit 备注内容
-if [ $# -eq 0 ]; then
-    echo "Usage: $0 <commit_message>"
-    exit 1
+  # Commit and push the changes with the current timestamp as the commit message
+  git commit -m "$(TZ=Asia/Singapore date '+%Y-%m-%d %H:%M:%S %Z')"
+  git push origin master
+else
+  # WFD.txt has no changes
+  echo "no change"
+  exit 0
 fi
-
-# 添加所有文件到暂存区
-git add .
-
-# 提交并推送代码，使用传入的 commit 备注内容
-git commit -m "$1"
-git push origin main
