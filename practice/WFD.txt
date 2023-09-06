@@ -93,6 +93,32 @@ Education and traning provide important skills for the labor force.
 The study of nutrition is a frowing field.
 There is a welcome party for all new students each term.
 They developed a unique approach to training their employees.
+Every student has both the right and the ability to suceed.
+Before submitting your dissertation, your advisor must approve your application.
+He was constantly looking for ways to bring industry and agriculture closer together.
+Making mistakes is fine as long as you learn from them.
+Some people are motivated by competition, while others prefer collaboration.
+Students attempting to go to the conference must register now.
+The ability to work with fellow students cannot be stressed enough.
+Archeologists discovered tools and other artifacts near the ancient tomb.
+The essay contains most of the important information.
+The plight of local wildlife has been ignored by developers.
+Mechanical engineering first became promient during the Industrial Revolution.
+The lecture tomorrow will discuss the educational policy of the United States.
+The department is organizing a trip to London in July.
+Speed is defined as how quickly an object or a person moves.
+Protective clothing must always be worn in the laboratory.
+Make sure you choose a course that provides great career opportunities.
+We no longer respond to any post reference requests.
+Sugar is a compound including carbon,oxygen, and hydrogen atoms.
+International exchange formed the important part of our study program.
+Scientists were unsure when the early men first left Africa.
+The shipwreck of this year ruined some artifacts which were interessted by historians.
+The bus for London will leave 10 minutes later than planned.
+Consumer confidence tends to increase as the economy expands.
+Time and disstance are used to claculate speed.
+The history department is very active in research.
+Every student has regular is very active is research.
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
