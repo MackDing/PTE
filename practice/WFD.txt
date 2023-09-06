@@ -80,6 +80,19 @@ The time of the math lecture has been changed to ten thirty.
 The ways in which people communicate are constantly changing.
 There are some doubts about whether these events actually occurred.
 This morning's lecture oneconomic policy has been canceled.
+Traffic is the main cause of air pollution in many cities.
+Tribes vied with each other to build monolithic statues.
+University fees are expected to increase next year.
+Water filters on campus will discourage the unnecessary use of plastic bottles.
+We can't consider increase in our price at this stage.
+We study science understand and appreciate the woril aroud us.
+We were able to contact a number of research subjects.
+You were able to contact a number of research subjects.
+Manufacture can now employ more people than ariculture and fishing combined.
+Education and traning provide important skills for the labor force.
+The study of nutrition is a frowing field.
+There is a welcome party for all new students each term.
+They developed a unique approach to training their employees.
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
