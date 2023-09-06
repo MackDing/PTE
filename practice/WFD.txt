@@ -119,6 +119,9 @@ Consumer confidence tends to increase as the economy expands.
 Time and distance are used to calculate speed.
 The history department is very active in research.
 Every student has regular is very active is research.
+Castles were designed to intimidate both local people and enemies.
+Graphs and charts allowed data to be more easily understood.
+A laptop computer has been found in the biology lab.
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
