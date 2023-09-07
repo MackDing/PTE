@@ -122,6 +122,12 @@ Every student has regular is very active is research.
 Castles were designed to intimidate both local people and enemies.
 Graphs and charts allowed data to be more easily understood.
 A laptop computer has been found in the biology lab.
+His appoinment to the Minister of Culture was seen as a demotion.
+Measures must be taken to prevent the unemployment rtate from increasing.
+Journalism faces the crisis in the light of the digital revolution.
+Request for late applications will not be accepted under any circumsttances.
+Salt is produced from sea water or extracted from the ground.
+
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
