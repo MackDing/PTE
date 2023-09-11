@@ -129,6 +129,14 @@ Request for late applications will not be accepted under any circumsttances.
 Salt is produced from sea water or extracted from the ground.
 The northern campus car park is located behind the library.
 Molecules of conpound consist of chemically separate parts.
+More graduate rtaning is needed after university study has finished.
+Your ideas are encuoraged to be debated in seminars and tutorials.
+Academic libraries across the world are steadily incorporating social media.
+Imported default packages are likely to be used for most computers.
+Students should leave their bags on the table behiand the door.
+Please close the door behind you when you leave the room.
+Honet can be used as food and a valubale health product.
+
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
