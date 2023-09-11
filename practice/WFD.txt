@@ -127,7 +127,8 @@ Measures must be taken to prevent the unemployment rtate from increasing.
 Journalism faces the crisis in the light of the digital revolution.
 Request for late applications will not be accepted under any circumsttances.
 Salt is produced from sea water or extracted from the ground.
-
+The northern campus car park is located behind the library.
+Molecules of conpound consist of chemically separate parts.
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
