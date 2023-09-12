@@ -136,6 +136,10 @@ Imported default packages are likely to be used for most computers.
 Students should leave their bags on the table behiand the door.
 Please close the door behind you when you leave the room.
 Honet can be used as food and a valubale health product.
+Farmers need to adapt to the changes in climate.
+Many university lectures can now be viewed on the internet.
+Linguistics is the scientific study and analysis of language.
+A new collection of articles has been published.
 
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
