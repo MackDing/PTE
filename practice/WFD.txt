@@ -140,7 +140,13 @@ Farmers need to adapt to the changes in climate.
 Many university lectures can now be viewed on the internet.
 Linguistics is the scientific study and analysis of language.
 A new collection of articles has been published.
-
+Auditions for the university choir will be held next week.
+The disease that was serious has now been eradicated.
+Students must attend the safety instruction course before attending the engineering workshop.
+Trees benefit the city by soaking up the rainwater that runs off the roads.
+The commissioner will apportion the funds among all the authorities.
+Please note that the seminar has now been canceled.
+Many diseases that were once serious have now been eradicated.
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
