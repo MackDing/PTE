@@ -165,7 +165,10 @@ The untapped potential of using sunray is phenomenal.
 The poster of this play is hung in the largest lecture theater.
 Optional tutorials are offered in the final week of the term.
 Technology is changing the way that media is used and studied.
-
+You will be tested by continuous assessments and examinations.
+Climate change is not a pure reason for this scientific research.
+Oractical experience is a vital part of legal training.
+Easter Island is a small island in the southeastern Pacific Ocean.
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
