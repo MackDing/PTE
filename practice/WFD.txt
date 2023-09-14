@@ -164,6 +164,8 @@ It is important to make clear notes when you are reading.
 The untapped potential of using sunray is phenomenal.
 The poster of this play is hung in the largest lecture theater.
 Optional tutorials are offered in the final week of the term.
+Technology is changing the way that media is used and studied.
+
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
