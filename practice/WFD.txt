@@ -198,7 +198,39 @@ I will come back to this in a moment.
 Lectures are the oldest and the most formal teaching method at university.
 Research shows that exercising makes uw feel better.
 The student shop sells a range of stationery.
-
+Today we have guest speaker who is visiting from Canada.
+Graduates from this course typically pursue careers in finacial sector.
+It is a debate about the value of knowledge.
+Tutors should set a clear goal at the start of the class.
+Students who study overseas can significantly improve their work chances.
+Strangely, people are simultaneously impressed by and are skeptical about using statistics.
+Many students live in the hall of residence in term time.
+Vocabulary that is peculiar in a specical field is called jargon.
+The timetable for the next term will be available next week.
+Keeping organized class notes will make studt time more efficient.
+You must answer security questions when you reset your password.
+Astronomers use light years to measure distance in space.
+Currently the grouth of the economy is unpredicatble.
+The collapse of the housing market has triggered recessions throuhjout the world.
+When the roots of a plant fail, foliage suffers.
+The course involves a combination of pure and applied mathematics.
+It is clear that a national trading system is a good thing.
+Calculators allow us to add numbers wthout making mistakes.
+A demonstrated ability to write clear, correct and concise English is bigotry.
+Most of the lectures begin promptly, so do not be late/
+The study of physiology involves traditional sceiences and social sciences.
+Students must wear protective clothing that is provided in the medical laboratory.
+The stock market cracked and had repercussions throughout the world.
+The student union hosts a variety of social events.
+The department will continux to offer three new scholarships next year.
+The business policy seminar includes an internship with a local firm.
+The campus tour will help you to get familiar with the teaching facilities.
+We have not yet achieved equality in our society.
+The university should have invested in new technology to support learning.
+Sea levels are expected to rise during the next century.
+The degree is taught by using a mixture of lectures and seminars.
+Theamount of time spent on configuration varies considerably.
+All student union students can register their names to get that service.
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
 /home/ev-docker/overlay2/131cd83560e19a790e275846d63ff3cb6e8a3ac01200a08e5d1ca9a7388f648d/diff
