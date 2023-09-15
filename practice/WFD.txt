@@ -185,6 +185,19 @@ The exam application system has been upgraded for professional exams.
 We are committed to recruiting candidates from all backgrounds and identities.
 New media has transcended traditional national boundaries.
 Please confirm that you have received the textbook.
+One student representative will be selected from each class.
+The accountancy students must hand in their dissertations this week.
+While some people regard it as care, others regard it as recklessness.
+The full list of undergraduate programs can be found on the website.
+We have a great deal of debate on that topic.
+Many students are now studying science, technology, engineering and maths.
+Visual aid can be really helpful when you are revising.
+The marketingbudget has been doubled since the beginning of the year.
+We encourahe students to complete their applications before the deadline.
+I will come back to this in a moment.
+Lectures are the oldest and the most formal teaching method at university.
+Research shows that exercising makes uw feel better.
+The student shop sells a range of stationery.
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
