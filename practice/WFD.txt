@@ -169,6 +169,14 @@ You will be tested by continuous assessments and examinations.
 Climate change is not a pure reason for this scientific research.
 Oractical experience is a vital part of legal training.
 Easter Island is a small island in the southeastern Pacific Ocean.
+There is pharmacy on campus near the bookstore.
+In language learning, a systematic method of categorizing new vocabulary is essential.
+The histiry course is assessed via three written assignments.
+The other book isn't thorough, but it's more insightful.
+We have sophisticated ways of studying the brain in action.
+The dance department stages elaborated performances each semester.
+Student representatives will be visiting the classrooms with voting forms.
+The article comsoders the lesiure habits of teenagers in rural areas.
 
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
