@@ -177,7 +177,8 @@ We have sophisticated ways of studying the brain in action.
 The dance department stages elaborated performances each semester.
 Student representatives will be visiting the classrooms with voting forms.
 The article comsoders the lesiure habits of teenagers in rural areas.
-
+The university will seek a colossal renovation to the faint empty theater.
+Students must prresent a valid identification to enroll in this course.
 docker run -itd --restart always --gpus all -p 8080:8080 -v /root/.tabby:/data tabbyml/tabby serve --model TabbyML/SantaCoder-1B --device cuda &
 
 /home/ev-docker/overlay2/131cd83560e19a790e275846d63ff3cb6e8a3ac01200a08e5d1ca9a7388f648d/diff
